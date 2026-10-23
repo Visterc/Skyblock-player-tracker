@@ -1,4 +1,4 @@
-# Skyblock-player-tracker
+# Simple Skyblock player tracker
 Tracks activity of a skyblock player on a **Discord bot** using **hypixel API**
 
 ## Requires:
